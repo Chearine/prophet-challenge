@@ -4,7 +4,7 @@
 This code analyzes the financial and user data for an ecommerce company, Mercado Libre. It aims to answer the question if the ability to predict search traffic can translate into the ability to successfully trade the stock.
 
 Files included in this repo:
-* prophet-challenge.ipynb
+* forecasting_net_prophet.ipynb
 * README.md
 
 ## Acknowledgements
